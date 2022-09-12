@@ -14,6 +14,13 @@ https://arxiv.org/pdf/1903.09848.pdf
 (task: nmt, scoring: vector norms)
 https://arxiv.org/pdf/2006.02014.pdf
 
+(task: parsing, scoring: sentence lenght)
+https://aclanthology.org/N10-1116.pdf
+
+(task: (transfer learning) parsing, scoring: worst-case?)
+https://arxiv.org/pdf/2203.08555.pdf
+
+
 
 To-read:
 * https://arxiv.org/pdf/1707.09533.pdf
